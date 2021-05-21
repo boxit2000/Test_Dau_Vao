@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ex2{
+    margin-bottom: 50px;
+}
+.main2{
+    /* border: 1px solid rgb(255, 255, 255); */
+    /* display: inline-block; */
+    margin-top: 50px;
+    margin: auto;
+    height: auto;
+    width: 40%;
+}
+.luckyText{
+    background-color: red;
+    text-align: center;
+}
+.luckyText p{
+    font-size: 50px;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 90px;
+}
+.bodyLucky{
+    background-color: rgb(189, 225, 255);
+    text-align: center;
+    padding-bottom: 30px ;
+}
+.bodyLucky p{
+    padding: 20px 0px;
+    font-size: 25px;
+}
+.mainLucky{
+    height: 50px;
+}
+.bodyLucky input{
+    width: 50%;
+    height: 100%;
+    /* font-size: 20px; */
+}
+input::-webkit-inner-spin-button{
+    display: none;
+}
+input::-webkit-input-placeholder{
+    font-size: 20px;
+}
+
+.bodyLucky button{
+    width: 20%;
+    padding: 10px;
+    height: 100%;
+    margin-left: 20px;
+}
+.task1 p{
+    font-size: 20px;
+}
+.task1 button{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.task2 p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.task2 button{
+    margin-top: 20px;
+    font-size: 20px;
+}
